@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Nathan, and I currently work for [Intent HQ](https://www.intenthq.com/) as Director of Engineering, writing functional Scala by day and Rust by night. [I write for SitePoint about Ruby](https://www.sitepoint.com/author/nkleyn/), and [I’m writing interesting thoughts about all sorts on my blog](https://nathankleyn.com/). You can also find me on [Twitter](https://twitter.com/nathankleyn) and of course here on GitHub. If you want to email me the old fashioned way, you can get in touch with me at mail/at/nathankleyn.com.
+I'm Nathan, and I currently work for [Intent HQ](https://www.intenthq.com/) as Director of Engineering, writing functional Scala by day and Rust by night. [I write for SitePoint about Ruby](https://www.sitepoint.com/author/nkleyn/), and [I'm writing interesting thoughts about all sorts on my blog](https://nathankleyn.com/). You can also find me on [Twitter](https://twitter.com/nathankleyn) and of course here on GitHub. If you want to email me the old fashioned way, you can get in touch with me at mail/at/nathankleyn.com.
 
 ```rust
 static NAME: &'static str = "Nathan";
@@ -19,7 +19,7 @@ fn github_readme() -> String {
     format!("I'm {}, and I currently work for [{}]({}) as Director of Engineering, \
              writing functional Scala by day and Rust by night. \
             [I write for SitePoint about Ruby]({}), and \
-            [I’m writing interesting thoughts about all sorts on my blog]({}). \
+            [I'm writing interesting thoughts about all sorts on my blog]({}). \
             You can also find me on [Twitter]({}) and of course here on GitHub. \
             If you want to email me the old fashioned way, you can get in touch with me at {}.",
             NAME, COMPANY, COMPANY_WEBSITE, SITEPOINT_PROFILE, MY_WEBSITE_AND_BLOG, TWITTER, EMAIL)

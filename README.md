@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Nathan, and I currently work for [Portify](https://portify.co/) as the Head of Engineering, writing functional Scala by day and Rust by night. [I write for SitePoint about Ruby](https://www.sitepoint.com/author/nkleyn/), and [I'm writing interesting thoughts about all sorts on my blog](https://nathankleyn.com/). You can also find me on [Twitter](https://twitter.com/nathankleyn) and of course here on GitHub. If you want to email me the old fashioned way, you can get in touch with me at mail/at/nathankleyn.com.
+I'm Nathan, and I currently work for [Portify](https://portify.co/) as the Head of Engineering, writing Ruby by day and functional Rust and Scala by night. [I write for SitePoint about Ruby](https://www.sitepoint.com/author/nkleyn/), and [I'm writing interesting thoughts about all sorts on my blog](https://nathankleyn.com/). You can also find me on [Twitter](https://twitter.com/nathankleyn) and of course here on GitHub. If you want to email me the old fashioned way, you can get in touch with me at mail/at/nathankleyn.com.
 
 ```rust
 static NAME: &'static str = "Nathan";
@@ -17,7 +17,7 @@ fn main() {
 
 fn github_readme() -> String {
     format!("I'm {}, and I currently work for [{}]({}) as the Head of Engineering, \
-             writing functional Scala by day and Rust by night. \
+             writing Ruby by day and functional Rust and Scala by night. \
              [I write for SitePoint about Ruby]({}), and \
              [I'm writing interesting thoughts about all sorts on my blog]({}). \
              You can also find me on [Twitter]({}) and of course here on GitHub. \

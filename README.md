@@ -1,12 +1,12 @@
 ### Hi! 👋
 
-I'm Nathan, and I currently work for [Intent HQ](https://www.intenthq.com/) as Director of Engineering, writing functional Scala by day and Rust by night. [I write for SitePoint about Ruby](https://www.sitepoint.com/author/nkleyn/), and [I'm writing interesting thoughts about all sorts on my blog](https://nathankleyn.com/). You can also find me on [Twitter](https://twitter.com/nathankleyn) and of course here on GitHub. If you want to email me the old fashioned way, you can get in touch with me at mail/at/nathankleyn.com.
+I'm Nathan, and I currently work for [Portify](https://portify.co/) as the Head of Engineering, writing functional Scala by day and Rust by night. [I write for SitePoint about Ruby](https://www.sitepoint.com/author/nkleyn/), and [I'm writing interesting thoughts about all sorts on my blog](https://nathankleyn.com/). You can also find me on [Twitter](https://twitter.com/nathankleyn) and of course here on GitHub. If you want to email me the old fashioned way, you can get in touch with me at mail/at/nathankleyn.com.
 
 ```rust
 static NAME: &'static str = "Nathan";
-static COMPANY: &'static str = "Intent HQ";
+static COMPANY: &'static str = "Portify";
 static MY_WEBSITE_AND_BLOG: &'static str = "https://nathankleyn.com/";
-static COMPANY_WEBSITE: &'static str = "https://www.intenthq.com/";
+static COMPANY_WEBSITE: &'static str = "https://portify.co/";
 static TWITTER: &'static str = "https://twitter.com/nathankleyn";
 static EMAIL: &'static str = "mail/at/nathankleyn.com";
 static SITEPOINT_PROFILE: &'static str = "https://www.sitepoint.com/author/nkleyn/";
@@ -16,7 +16,7 @@ fn main() {
 }
 
 fn github_readme() -> String {
-    format!("I'm {}, and I currently work for [{}]({}) as Director of Engineering, \
+    format!("I'm {}, and I currently work for [{}]({}) as the Head of Engineering, \
              writing functional Scala by day and Rust by night. \
              [I write for SitePoint about Ruby]({}), and \
              [I'm writing interesting thoughts about all sorts on my blog]({}). \

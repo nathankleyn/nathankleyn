@@ -4,7 +4,7 @@ I'm Nathan, and I currently work for [Pave](https://paveapp.com/) as the Head of
 
 ```rust
 static NAME: &'static str = "Nathan";
-static COMPANY: &'static str = "Portify";
+static COMPANY: &'static str = "Pave";
 static MY_WEBSITE_AND_BLOG: &'static str = "https://nathankleyn.com/";
 static COMPANY_WEBSITE: &'static str = "https://paveapp.com/";
 static TWITTER: &'static str = "https://twitter.com/nathankleyn";

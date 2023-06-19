@@ -6,7 +6,7 @@ I'm Nathan, and I currently work for [Pave](https://paveapp.com/) as the Head of
 static NAME: &'static str = "Nathan";
 static COMPANY: &'static str = "Portify";
 static MY_WEBSITE_AND_BLOG: &'static str = "https://nathankleyn.com/";
-static COMPANY_WEBSITE: &'static str = "https://portify.co/";
+static COMPANY_WEBSITE: &'static str = "https://paveapp.com/";
 static TWITTER: &'static str = "https://twitter.com/nathankleyn";
 static EMAIL: &'static str = "mail/at/nathankleyn.com";
 static SITEPOINT_PROFILE: &'static str = "https://www.sitepoint.com/author/nkleyn/";
@@ -16,7 +16,7 @@ fn main() {
 }
 
 fn github_readme() -> String {
-    format!("I'm {}, and I currently work for [{}]({}) as the Head of Engineering, \
+    format!("I'm {}, and I currently work for [{}]({}) as the Head of Engineering and Product, \
              writing Ruby by day and functional Rust and Scala by night. \
              [I write for SitePoint about Ruby]({}), and \
              [I'm writing interesting thoughts about all sorts on my blog]({}). \

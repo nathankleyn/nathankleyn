@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Nathan, and I currently work for [Townhouse](https://townhouse.co.uk/) as the Head of of Software Engineering, writing Typescript and Ruby by day and functional Rust and Scala by night. [I write for SitePoint about Ruby](https://www.sitepoint.com/author/nkleyn/), and [I'm writing interesting thoughts about all sorts on my blog](https://nathankleyn.com/). You can also find me on [Twitter](https://twitter.com/nathankleyn) and of course here on GitHub. If you want to email me the old fashioned way, you can get in touch with me at mail/at/nathankleyn.com.
+I'm Nathan, and I currently work for [Townhouse](https://townhouse.co.uk/) as the Head of Software Engineering, writing Typescript and Ruby by day and functional Rust and Scala by night. [I write for SitePoint about Ruby](https://www.sitepoint.com/author/nkleyn/), and [I'm writing interesting thoughts about all sorts on my blog](https://nathankleyn.com/). You can also find me on [Twitter](https://twitter.com/nathankleyn) and of course here on GitHub. If you want to email me the old fashioned way, you can get in touch with me at mail/at/nathankleyn.com.
 
 ```rust
 static NAME: &'static str = "Nathan";

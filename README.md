@@ -1,12 +1,12 @@
 ### Hi! 👋
 
-I'm Nathan, and I currently work for [Pave](https://paveapp.com/) as the Head of Engineering and Product, writing Ruby by day and functional Rust and Scala by night. [I write for SitePoint about Ruby](https://www.sitepoint.com/author/nkleyn/), and [I'm writing interesting thoughts about all sorts on my blog](https://nathankleyn.com/). You can also find me on [Twitter](https://twitter.com/nathankleyn) and of course here on GitHub. If you want to email me the old fashioned way, you can get in touch with me at mail/at/nathankleyn.com.
+I'm Nathan, and I currently work for [Townhouse](https://townhouse.co.uk/) as the Head of of Software Engineering, writing Typescript and Ruby by day and functional Rust and Scala by night. [I write for SitePoint about Ruby](https://www.sitepoint.com/author/nkleyn/), and [I'm writing interesting thoughts about all sorts on my blog](https://nathankleyn.com/). You can also find me on [Twitter](https://twitter.com/nathankleyn) and of course here on GitHub. If you want to email me the old fashioned way, you can get in touch with me at mail/at/nathankleyn.com.
 
 ```rust
 static NAME: &'static str = "Nathan";
-static COMPANY: &'static str = "Pave";
+static COMPANY: &'static str = "Townhouse";
 static MY_WEBSITE_AND_BLOG: &'static str = "https://nathankleyn.com/";
-static COMPANY_WEBSITE: &'static str = "https://paveapp.com/";
+static COMPANY_WEBSITE: &'static str = "https://townhouse.co.uk/";
 static TWITTER: &'static str = "https://twitter.com/nathankleyn";
 static EMAIL: &'static str = "mail/at/nathankleyn.com";
 static SITEPOINT_PROFILE: &'static str = "https://www.sitepoint.com/author/nkleyn/";
@@ -16,7 +16,7 @@ fn main() {
 }
 
 fn github_readme() -> String {
-    format!("I'm {}, and I currently work for [{}]({}) as the Head of Engineering and Product, \
+    format!("I'm {}, and I currently work for [{}]({}) as the Head of Software Engineering, \
              writing Ruby by day and functional Rust and Scala by night. \
              [I write for SitePoint about Ruby]({}), and \
              [I'm writing interesting thoughts about all sorts on my blog]({}). \
